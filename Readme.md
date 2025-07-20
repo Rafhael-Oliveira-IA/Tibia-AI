@@ -1,4 +1,4 @@
-# Tibia IA Helper - Developer Documentation
+# Tibia IA Helper - Developer Documentation Small Version
 
 ## System Overview
 
